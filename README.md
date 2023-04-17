@@ -28,9 +28,9 @@
   
 
 ### 💻 페어프로그래밍
-|<img src="https://avatars.githubusercontent.com/u/55427367?v=4" width=150px> |<img src="https://avatars.githubusercontent.com/u/72205402?v=4" width=150px>|
+|<img src="https://avatars.githubusercontent.com/u/55427367?v=4" width=150px> |<img src="https://avatars.githubusercontent.com/u/33623078?v=4" width=150px>|
 |:---:|:---:|
-|[타미](http://github.com/xodms0309)|[패트릭](http://github.com/GC-Park)|
+|[타미](http://github.com/xodms0309)|[쿠마](http://github.com/yogjin)|
 
 ### 🌲 파일 구조
 ```
